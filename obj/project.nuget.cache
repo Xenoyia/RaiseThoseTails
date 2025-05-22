@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LVUr0qyhEWY=",
+  "success": true,
+  "projectFilePath": "E:\\Ratopia Modding\\raisethosetails\\RaiseThoseTails.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xenth\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
+    "C:\\Users\\xenth\\.nuget\\packages\\bepinex.plugininfoprops\\2.1.0\\bepinex.plugininfoprops.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

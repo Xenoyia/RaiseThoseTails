@@ -1,0 +1,10 @@
+E:\Ratopia Modding\raisethosetails\bin\Debug\net472\RaiseThoseTails.dll
+E:\Ratopia Modding\raisethosetails\bin\Debug\net472\RaiseThoseTails.pdb
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\RaiseThoseTails.csproj.AssemblyReference.cache
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\MyPluginInfo.cs
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\RaiseThoseTails.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\RaiseThoseTails.AssemblyInfoInputs.cache
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\RaiseThoseTails.AssemblyInfo.cs
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\RaiseThoseTails.csproj.CoreCompileInputs.cache
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\RaiseThoseTails.dll
+E:\Ratopia Modding\raisethosetails\obj\Debug\net472\RaiseThoseTails.pdb

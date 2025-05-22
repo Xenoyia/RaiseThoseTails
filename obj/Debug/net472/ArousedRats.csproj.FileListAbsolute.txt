@@ -1,0 +1,10 @@
+E:\Ratopia Modding\arousedrats\bin\Debug\net472\ArousedRats.dll
+E:\Ratopia Modding\arousedrats\bin\Debug\net472\ArousedRats.pdb
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\ArousedRats.csproj.AssemblyReference.cache
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\MyPluginInfo.cs
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\ArousedRats.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\ArousedRats.AssemblyInfoInputs.cache
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\ArousedRats.AssemblyInfo.cs
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\ArousedRats.csproj.CoreCompileInputs.cache
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\ArousedRats.dll
+E:\Ratopia Modding\arousedrats\obj\Debug\net472\ArousedRats.pdb
