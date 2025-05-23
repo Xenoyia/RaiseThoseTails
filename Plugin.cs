@@ -10,7 +10,7 @@ using System.Linq;
 
 namespace RaiseThoseTails
 {
-    [BepInPlugin("raisethosetails", "Raise Those Tails", "1.0.0")]
+    [BepInPlugin("raisethosetails", "Raise Those Tails", "1.0.1")]
     public class Plugin : BaseUnityPlugin
     {
         internal static new BepInEx.Logging.ManualLogSource Logger;
@@ -31,6 +31,7 @@ namespace RaiseThoseTails
             try
             {
                 if (citizen == null) return;
+                if (citizen.GetType() == typeof(GBot)) return;
 
                 // Use reflection to get m_SkinInfo, m_MeshRender, and transform if not public
                 var skinInfoField = citizen.GetType().GetField("m_SkinInfo", System.Reflection.BindingFlags.Instance | System.Reflection.BindingFlags.Public | System.Reflection.BindingFlags.NonPublic);
@@ -43,7 +44,6 @@ namespace RaiseThoseTails
 
                 if (m_SkinInfo == null || m_MeshRender == null || unitTransform == null)
                 {
-                    Logger.LogError("Could not access required fields on GameUnit (m_SkinInfo, m_MeshRender, or transform).");
                     return;
                 }
 
